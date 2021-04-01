@@ -1,6 +1,4 @@
-# Optum Data Science Challenge
-
-Approx time taken: 4-5 hours
+# ML Challenge 1
 
 My solution to this task is located in 3 jupyter notebooks and should be viewed in the following order:
 
